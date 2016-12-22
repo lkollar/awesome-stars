@@ -1,0 +1,7 @@
+language: python
+
+install:
+  - pip install --upgrade pip
+  - pip install starred
+script:
+  starred --username lkollar --repository awesome-stars --sort

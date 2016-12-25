@@ -28,6 +28,7 @@
 
 ## C++ 
 
+- [Consus](https://github.com/rescrv/Consus) - Consus is a geo-replicated transactional key-value store.
 - [python-airtunes-server](https://github.com/jim-minter/python-airtunes-server) - 
 - [virtdb-common](https://github.com/virtdb/virtdb-common) - helper classes, utilities and stuff for virtdb
 - [kuhllib](https://github.com/dietmarkuehl/kuhllib) - an experimental standard C++ library
@@ -107,6 +108,7 @@
 
 ## Shell 
 
+- [autovpn](https://github.com/ttlequals0/autovpn) - Script to create an OpenVPN Endpoint on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 ## VimL 

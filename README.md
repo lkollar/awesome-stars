@@ -81,6 +81,7 @@
 
 ## Perl 
 
+- [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Currently using ZFS for underlying next-gen storage, with explicit plans to support btrfs when btrfs becomes more reliable.  Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 
 ## Python 
@@ -108,7 +109,7 @@
 
 ## Shell 
 
-- [autovpn](https://github.com/ttlequals0/autovpn) - Script to create an OpenVPN Endpoint on AWS.
+- [autovpn](https://github.com/ttlequals0/autovpn) - Script to Create On Demand OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 ## VimL 

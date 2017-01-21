@@ -41,7 +41,7 @@
 
 ## Clojure 
 
-- [boot-new](https://github.com/seancorfield/boot-new) - Generate new projects based on Boot Templates and/or Leiningen Templates!
+- [boot-new](https://github.com/boot-clj/boot-new) - Generate new projects based on Boot Templates and/or Leiningen Templates!
 - [boot](https://github.com/boot-clj/boot) - Build tooling for Clojure.
 - [compojure-api](https://github.com/metosin/compojure-api) - Sweet web apis with Compojure & Swagger
 - [klang](https://github.com/rauhs/klang) - Clojurescript logging library

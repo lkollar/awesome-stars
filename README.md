@@ -19,6 +19,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Vim script](#vim script)
   - [VimL](#viml)
 
 ## C 
@@ -112,9 +113,12 @@
 - [autovpn](https://github.com/ttlequals0/autovpn) - Script to Create On Demand OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
-## VimL 
+## Vim script 
 
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility.
+
+## VimL 
+
 - [timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 
 

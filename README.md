@@ -89,7 +89,7 @@
 ## Python 
 
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-- [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [dothub](https://github.com/Mariocj89/dothub) - Stop managing your github config like a mere human
 - [sealedmock](https://github.com/Mariocj89/sealedmock) - Make your mocks behave
 - [python-github-webhook](https://github.com/bloomberg/python-github-webhook) - A framework for writing webhooks for GitHub, in Python.

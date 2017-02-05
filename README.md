@@ -116,7 +116,7 @@
 
 ## Vim script 
 
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and agility.
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 
 ## VimL 
 

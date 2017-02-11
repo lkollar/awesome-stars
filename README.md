@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Jamstash](https://github.com/tsquillario/Jamstash) - HTML5 Music Streamer for Subsonic

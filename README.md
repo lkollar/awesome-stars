@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
 
 ## JavaScript 
@@ -94,7 +95,7 @@
 - [sealedmock](https://github.com/Mariocj89/sealedmock) - Make your mocks behave
 - [python-github-webhook](https://github.com/bloomberg/python-github-webhook) - A framework for writing webhooks for GitHub, in Python.
 - [airpnp](https://github.com/provegard/airpnp) - AirPlay to UPnP bridge written in Python
-- [PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) - An open source AirPlay mirroring server in Python
+- [PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) - An open source AirPlay mirroring server in Python for iOS 6-8
 - [SoundCloud.bundle](https://github.com/plexinc-plugins/SoundCloud.bundle) - 
 - [gunnery](https://github.com/gunnery/gunnery) - Remote task execution tool
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python

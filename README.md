@@ -42,6 +42,7 @@
 
 ## Clojure 
 
+- [fn-fx](https://github.com/halgari/fn-fx) - A Functional API around Java FX
 - [boot-new](https://github.com/boot-clj/boot-new) - Generate new projects based on Boot Templates and/or Leiningen Templates!
 - [boot](https://github.com/boot-clj/boot) - Build tooling for Clojure.
 - [compojure-api](https://github.com/metosin/compojure-api) - Sweet web apis with Compojure & Swagger

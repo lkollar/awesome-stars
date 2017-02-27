@@ -65,6 +65,7 @@
 
 ## JavaScript 
 
+- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
@@ -113,6 +114,7 @@
 
 ## Shell 
 
+- [WPStager](https://github.com/kLOsk/WPStager) - WordPress Provisioning and Staging Simplified
 - [autovpn](https://github.com/ttlequals0/autovpn) - Script to Create On Demand OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 

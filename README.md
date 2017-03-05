@@ -91,6 +91,7 @@
 
 ## Python 
 
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [dothub](https://github.com/Mariocj89/dothub) - Stop managing your github config like a mere human

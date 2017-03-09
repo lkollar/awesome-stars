@@ -91,6 +91,7 @@
 
 ## Python 
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
@@ -125,6 +126,7 @@
 
 ## VimL 
 
+- [todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
 - [timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 
 

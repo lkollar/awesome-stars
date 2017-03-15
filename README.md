@@ -66,6 +66,8 @@
 
 ## JavaScript 
 
+- [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
+- [draw.io](https://github.com/jgraph/draw.io) - Source to www.draw.io
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
@@ -82,6 +84,7 @@
 
 ## Others 
 
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't do typical CS based whiteboard interviews. The whiteboard is metaphorical.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 

@@ -84,7 +84,7 @@
 
 ## Others 
 
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't do typical CS based whiteboard interviews. The whiteboard is metaphorical.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 

@@ -12,6 +12,7 @@
   - [CoffeeScript](#coffeescript)
   - [Frege](#frege)
   - [Go](#go)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -19,6 +20,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [TeX](#tex)
   - [Vim script](#vim script)
   - [VimL](#viml)
 
@@ -64,8 +66,14 @@
 - [beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees 🐝
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
 
+## Java 
+
+- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+
 ## JavaScript 
 
+- [resume-cli](https://github.com/jsonresume/resume-cli) - Cli tool to easily setup a new resume 📑
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [draw.io](https://github.com/jgraph/draw.io) - Source to www.draw.io
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips
@@ -84,7 +92,6 @@
 
 ## Others 
 
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -95,6 +102,7 @@
 
 ## Python 
 
+- [facebook-programming-challenges](https://github.com/alonsovidales/facebook-programming-challenges) - This is a compilation of possible questions to be solved in order to be hired by Facebook
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -123,6 +131,11 @@
 - [WPStager](https://github.com/kLOsk/WPStager) - WordPress Provisioning and Staging Simplified
 - [autovpn](https://github.com/ttlequals0/autovpn) - Script to Create On Demand OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+
+## TeX 
+
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV) - Awesome CV is LaTeX template for your outstanding job application
+- [pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 
 ## Vim script 
 

@@ -103,7 +103,7 @@
 ## Python 
 
 - [facebook-programming-challenges](https://github.com/alonsovidales/facebook-programming-challenges) - This is a compilation of possible questions to be solved in order to be hired by Facebook
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
@@ -112,7 +112,6 @@
 - [python-github-webhook](https://github.com/bloomberg/python-github-webhook) - A framework for writing webhooks for GitHub, in Python.
 - [airpnp](https://github.com/provegard/airpnp) - AirPlay to UPnP bridge written in Python
 - [PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) - An open source AirPlay mirroring server in Python for iOS 6-8
-- [SoundCloud.bundle](https://github.com/plexinc-plugins/SoundCloud.bundle) - 
 - [gunnery](https://github.com/gunnery/gunnery) - Remote task execution tool
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask

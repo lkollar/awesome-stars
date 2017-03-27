@@ -14,6 +14,7 @@
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [Perl](#perl)
@@ -85,6 +86,10 @@
 - [syte](https://github.com/rigoneri/syte) - A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and much more...
 - [innoWiki-python](https://github.com/lkollar/innoWiki-python) - innoWiki Python backend
 
+## Matlab 
+
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+
 ## Objective-C 
 
 - [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
@@ -142,6 +147,7 @@
 
 ## VimL 
 
+- [vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager) - manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 - [todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
 - [timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 

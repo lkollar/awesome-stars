@@ -107,6 +107,7 @@
 
 ## Python 
 
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!

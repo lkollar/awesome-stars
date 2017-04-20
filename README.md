@@ -73,6 +73,7 @@
 
 ## JavaScript 
 
+- [tdo](https://github.com/mstijak/tdo) - Keyboard driven, hackable TODO list
 - [resume-cli](https://github.com/jsonresume/resume-cli) - Cli tool to easily setup a new resume 📑
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer

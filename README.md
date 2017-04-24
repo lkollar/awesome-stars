@@ -21,6 +21,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [Vim script](#vim script)
   - [VimL](#viml)
@@ -140,6 +141,10 @@
 - [WPStager](https://github.com/kLOsk/WPStager) - WordPress Provisioning and Staging Simplified
 - [autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+
+## Swift 
+
+- [Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 
 ## TeX 
 

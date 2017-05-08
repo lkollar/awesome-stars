@@ -153,11 +153,11 @@
 
 ## Vim script 
 
+- [vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager) - manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 
 ## VimL 
 
-- [vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager) - manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 - [todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
 - [timl](https://github.com/tpope/timl) - Clojure like language which compiles down to VimL
 

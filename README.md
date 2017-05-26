@@ -28,7 +28,7 @@
 
 ## C 
 
-- [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library
+- [tbox](https://github.com/tboox/tbox) - :package: A glib-like multi-platform c library
 - [flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 
 ## C++ 

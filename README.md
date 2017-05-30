@@ -118,8 +118,8 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
-- [dothub](https://github.com/Mariocj89/dothub) - Stop managing your github config like a mere human
-- [sealedmock](https://github.com/Mariocj89/sealedmock) - Make your mocks behave
+- [dothub](https://github.com/mariocj89/dothub) - Stop managing your github config like a mere human
+- [sealedmock](https://github.com/mariocj89/sealedmock) - Make your mocks behave
 - [python-github-webhook](https://github.com/bloomberg/python-github-webhook) - A framework for writing webhooks for GitHub, in Python.
 - [airpnp](https://github.com/provegard/airpnp) - AirPlay to UPnP bridge written in Python
 - [PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) - An open source AirPlay mirroring server in Python for iOS 6-8

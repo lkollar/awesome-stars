@@ -12,6 +12,7 @@
   - [CoffeeScript](#coffeescript)
   - [Frege](#frege)
   - [Go](#go)
+  - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Matlab](#matlab)
@@ -67,6 +68,10 @@
 
 - [beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees 🐝
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
+
+## HTML 
+
+- [home_surveillance](https://github.com/BrandonJoffe/home_surveillance) - Home surveillance system with facial recognition
 
 ## Java 
 

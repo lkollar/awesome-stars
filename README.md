@@ -66,7 +66,7 @@
 
 ## Go 
 
-- [beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees 🐝
+- [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
 
 ## HTML 

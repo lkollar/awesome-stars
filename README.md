@@ -47,6 +47,7 @@
 
 ## Clojure 
 
+- [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [pallet](https://github.com/pallet/pallet) - Automates controlling and provisioning cloud server instances. DevOps for the JVM.
 - [fn-fx](https://github.com/halgari/fn-fx) - A Functional API around Java FX
 - [boot-new](https://github.com/boot-clj/boot-new) - Generate new projects based on Boot Templates and/or Leiningen Templates!

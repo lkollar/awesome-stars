@@ -34,6 +34,7 @@
 
 ## C 
 
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [tbox](https://github.com/tboox/tbox) - :package: A glib-like multi-platform c library
 - [flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 

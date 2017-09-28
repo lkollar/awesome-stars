@@ -163,7 +163,7 @@
 
 ## TeX 
 
-- [Awesome-CV](https://github.com/posquit0/Awesome-CV) - Awesome CV is LaTeX template for your outstanding job application
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 
 ## Vim script 

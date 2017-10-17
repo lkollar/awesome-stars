@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
 
@@ -155,6 +156,7 @@
 
 ## Shell 
 
+- [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [WPStager](https://github.com/kLOsk/WPStager) - WordPress Provisioning and Staging Simplified
 - [autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.

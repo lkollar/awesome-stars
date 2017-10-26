@@ -158,6 +158,7 @@
 
 ## Shell 
 
+- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [WPStager](https://github.com/kLOsk/WPStager) - WordPress Provisioning and Staging Simplified
 - [autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand OpenVPN Endpoints on AWS.

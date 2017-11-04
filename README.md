@@ -125,6 +125,7 @@
 
 ## Python 
 
+- [fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
 - [pythonrc](https://github.com/lonetwin/pythonrc) - lonetwin's pimped-up pythonrc
 - [magic-the-gifening](https://github.com/minimaxir/magic-the-gifening) - A Twitter bot which tweets Magic: the Gathering cards with appropriate GIFs superimposed onto them.

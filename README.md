@@ -125,6 +125,7 @@
 
 ## Python 
 
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
 - [pythonrc](https://github.com/lonetwin/pythonrc) - lonetwin's pimped-up pythonrc
@@ -155,6 +156,7 @@
 
 ## Ruby 
 
+- [octobox](https://github.com/octobox/octobox) - :postbox: Take back control of your GitHub Notifications
 - [reckon](https://github.com/cantino/reckon) - Flexibly import bank account CSV files into Ledger for command-line accounting
 - [canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 
@@ -163,7 +165,7 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [WPStager](https://github.com/kLOsk/WPStager) - WordPress Provisioning and Staging Simplified
-- [autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand OpenVPN Endpoints on AWS.
+- [autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 ## Swift 

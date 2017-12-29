@@ -19,6 +19,7 @@
   - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -117,6 +118,10 @@
 
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+## PLpgSQL 
+
+- [idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
 
 ## Perl 
 

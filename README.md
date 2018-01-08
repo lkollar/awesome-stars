@@ -116,6 +116,7 @@
 
 ## Others 
 
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 

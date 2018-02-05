@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting Containers and Services
 - [MMM-UKNationalRail](https://github.com/nwootton/MMM-UKNationalRail) - Magic Mirror Module for UK rail information. Returns departure info about a SPECIFIED UK rail station.
 - [tdo](https://github.com/mstijak/tdo) - Keyboard driven, hackable TODO list
 - [resume-cli](https://github.com/jsonresume/resume-cli) - Cli tool to easily setup a new resume 📑

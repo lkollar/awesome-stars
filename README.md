@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration and Documentation for my House.  Part list below.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure that can be modified concurrently by different users, and merged again automatically.
 - [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting Containers and Services
 - [MMM-UKNationalRail](https://github.com/nwootton/MMM-UKNationalRail) - Magic Mirror Module for UK rail information. Returns departure info about a SPECIFIED UK rail station.

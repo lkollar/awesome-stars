@@ -13,6 +13,7 @@
   - [CoffeeScript](#coffeescript)
   - [Frege](#frege)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -79,6 +80,10 @@
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
+
+## Groovy 
+
+- [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between SmartThings and MQTT
 
 ## HTML 
 

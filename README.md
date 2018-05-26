@@ -97,7 +97,7 @@
 
 - [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Part list below. Be sure to :star: it.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure that can be modified concurrently by different users, and merged again automatically.
-- [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting Containers and Services
+- [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [MMM-UKNationalRail](https://github.com/nwootton/MMM-UKNationalRail) - Magic Mirror Module for UK rail information. Returns departure info about a SPECIFIED UK rail station.
 - [tdo](https://github.com/mstijak/tdo) - Keyboard driven, hackable TODO list
 - [resume-cli](https://github.com/jsonresume/resume-cli) - Cli tool to easily setup a new resume 📑

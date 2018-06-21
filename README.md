@@ -27,7 +27,7 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
-  - [Vim script](#vim script)
+  - [Vim script](#vim-script)
   - [VimL](#viml)
 
 ## Batchfile 
@@ -154,7 +154,7 @@
 - [facebook-programming-challenges](https://github.com/alonsovidales/facebook-programming-challenges) - This is a compilation of possible questions to be solved in order to be hired by Facebook
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
 - [dothub](https://github.com/mariocj89/dothub) - Stop managing your github config like a mere human
 - [sealedmock](https://github.com/mariocj89/sealedmock) - Make your mocks behave

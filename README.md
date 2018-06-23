@@ -173,7 +173,7 @@
 
 ## Ruby 
 
-- [octobox](https://github.com/octobox/octobox) - :postbox: Take back control of your GitHub Notifications
+- [octobox](https://github.com/octobox/octobox) - :postbox: The best way to manage your GitHub Notifications
 - [reckon](https://github.com/cantino/reckon) - Flexibly import bank account CSV files into Ledger for command-line accounting
 - [canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 

@@ -17,6 +17,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Makefile](#makefile)
   - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -113,6 +114,10 @@
 - [animatic](https://github.com/lvivski/animatic) - CSS animations engine
 - [syte](https://github.com/rigoneri/syte) - A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and much more...
 - [innoWiki-python](https://github.com/lkollar/innoWiki-python) - innoWiki Python backend
+
+## Makefile 
+
+- [hassos](https://github.com/home-assistant/hassos) - :beginner: HassOS docker hypervisor
 
 ## Matlab 
 

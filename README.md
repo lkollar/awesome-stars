@@ -117,7 +117,7 @@
 
 ## Makefile 
 
-- [hassos](https://github.com/home-assistant/hassos) - :beginner: HassOS docker hypervisor
+- [hassos](https://github.com/home-assistant/hassos) - :beginner: HassOS Docker hypervisor
 
 ## Matlab 
 

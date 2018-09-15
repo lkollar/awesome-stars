@@ -162,7 +162,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast
 - [dothub](https://github.com/mariocj89/dothub) - Stop managing your github config like a mere human
 - [sealedmock](https://github.com/mariocj89/sealedmock) - Make your mocks behave
 - [python-github-webhook](https://github.com/bloomberg/python-github-webhook) - A framework for writing webhooks for GitHub, in Python.

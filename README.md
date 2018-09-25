@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 - [pydgin](https://github.com/cornell-brg/pydgin) - A (Py)thon (D)SL for (G)enerating (In)struction set simulators.
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools

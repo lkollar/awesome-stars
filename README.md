@@ -21,6 +21,7 @@
   - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PHP](#php)
   - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Python](#python)
@@ -135,6 +136,10 @@
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+## PHP 
+
+- [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
+
 ## PLpgSQL 
 
 - [idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
@@ -180,7 +185,7 @@
 
 ## Ruby 
 
-- [octobox](https://github.com/octobox/octobox) - :postbox: Untangle your GitHub Notifications
+- [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [reckon](https://github.com/cantino/reckon) - Flexibly import bank account CSV files into Ledger for command-line accounting
 - [canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 

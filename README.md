@@ -18,7 +18,6 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Makefile](#makefile)
-  - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -120,10 +119,6 @@
 ## Makefile 
 
 - [hassos](https://github.com/home-assistant/hassos) - :beginner: HassOS Docker hypervisor
-
-## Matlab 
-
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
 
 ## Objective-C 
 

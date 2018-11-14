@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [better-keynote-export](https://github.com/mcfunley/better-keynote-export) - A better export for sharing Keynote presentations, with support for presenter notes.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 - [pydgin](https://github.com/cornell-brg/pydgin) - A (Py)thon (D)SL for (G)enerating (In)struction set simulators.

@@ -10,7 +10,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Frege](#frege)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -28,6 +27,7 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
+  - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [VimL](#viml)
 
@@ -37,8 +37,9 @@
 
 ## C 
 
+- [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
-- [tbox](https://github.com/tboox/tbox) - 📦 A glib-like multi-platform c library
+- [tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
 - [flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 
 ## C++ 
@@ -67,16 +68,13 @@
 - [clojurescript-npm](https://github.com/nasser/clojurescript-npm) - NPM module for the the ClojureScript programming language
 - [mount](https://github.com/tolitius/mount) - managing Clojure and ClojureScript app state since (reset)
 
-## CoffeeScript 
-
-- [bacon.js](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript
-
 ## Frege 
 
 - [frege](https://github.com/Frege/frege) - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.
 
 ## Go 
 
+- [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
@@ -92,6 +90,7 @@
 ## HTML 
 
 - [home_surveillance](https://github.com/BrandonJoffe/home_surveillance) - Home surveillance system with facial recognition
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Java 
 
@@ -99,6 +98,7 @@
 
 ## JavaScript 
 
+- [snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
 - [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Part list below. Be sure to :star: it.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
@@ -129,8 +129,7 @@
 ## Others 
 
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
-- [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ## PHP 
 
@@ -142,11 +141,15 @@
 
 ## Perl 
 
-- [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Currently using ZFS for underlying next-gen storage, with explicit plans to support btrfs when btrfs becomes more reliable.  Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
+- [sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 
 ## Python 
 
+- [python-flask-sample-app](https://github.com/codefresh-contrib/python-flask-sample-app) - Dockerized Python Flask Example application
+- [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) - Exemplary real world JSON API built with Flask (Python)
+- [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 Micropython based devices ⛺
+- [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [better-keynote-export](https://github.com/mcfunley/better-keynote-export) - A better export for sharing Keynote presentations, with support for presenter notes.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
@@ -157,10 +160,10 @@
 - [pythonrc](https://github.com/lonetwin/pythonrc) - lonetwin's pimped-up pythonrc
 - [magic-the-gifening](https://github.com/minimaxir/magic-the-gifening) - A Twitter bot which tweets Magic: the Gathering cards with appropriate GIFs superimposed onto them.
 - [python-deb-pkg-tools](https://github.com/xolox/python-deb-pkg-tools) - Debian packaging tools
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [facebook-programming-challenges](https://github.com/alonsovidales/facebook-programming-challenges) - This is a compilation of possible questions to be solved in order to be hired by Facebook
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
@@ -198,12 +201,18 @@
 
 ## Swift 
 
+- [iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 
 ## TeX 
 
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
+
+## TypeScript 
+
+- [notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
+- [bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 
 ## Vim script 
 

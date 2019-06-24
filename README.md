@@ -146,7 +146,7 @@
 ## Python 
 
 - [watcher-for-erste](https://github.com/wafle/watcher-for-erste) - 
-- [python-bookbinding](https://github.com/brandon-rhodes/python-bookbinding) - Page canon outlines for ReportLab
+- [python-typesetting](https://github.com/brandon-rhodes/python-typesetting) - Page canon outlines for ReportLab
 - [python-flask-sample-app](https://github.com/codefresh-contrib/python-flask-sample-app) - Dockerized Python Flask Example application
 - [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) - Exemplary real world JSON API built with Flask (Python)
 - [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 Micropython based devices ⛺

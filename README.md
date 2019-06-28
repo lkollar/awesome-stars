@@ -104,7 +104,7 @@
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [MMM-UKNationalRail](https://github.com/nwootton/MMM-UKNationalRail) - Magic Mirror Module for UK rail information. Returns departure info about a SPECIFIED UK rail station.
 - [tdo](https://github.com/mstijak/tdo) - Keyboard driven, hackable TODO list
-- [resume-cli](https://github.com/jsonresume/resume-cli) - Cli tool to easily setup a new resume 📑
+- [resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips

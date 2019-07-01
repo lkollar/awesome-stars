@@ -99,7 +99,7 @@
 ## JavaScript 
 
 - [snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
-- [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Part list below. Be sure to :star: it.
+- [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write ups, videos, part lists and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [MMM-UKNationalRail](https://github.com/nwootton/MMM-UKNationalRail) - Magic Mirror Module for UK rail information. Returns departure info about a SPECIFIED UK rail station.

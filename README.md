@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AppleScript](#applescript)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
@@ -30,6 +31,10 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [VimL](#viml)
+
+## AppleScript 
+
+- [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
 
 ## Batchfile 
 
@@ -212,7 +217,7 @@
 
 ## TypeScript 
 
-- [notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
+- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 

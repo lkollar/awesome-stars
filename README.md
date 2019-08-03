@@ -197,6 +197,7 @@
 
 ## Shell 
 
+- [centos-devtools](https://github.com/squeaky-pl/centos-devtools) - 
 - [homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
 - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:

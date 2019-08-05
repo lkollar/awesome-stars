@@ -51,7 +51,6 @@
 
 - [Consus](https://github.com/rescrv/Consus) - Consus is a geo-replicated transactional key-value store.
 - [python-airtunes-server](https://github.com/jim-minter/python-airtunes-server) - 
-- [virtdb-common](https://github.com/virtdb/virtdb-common) - helper classes, utilities and stuff for virtdb
 - [kuhllib](https://github.com/dietmarkuehl/kuhllib) - an experimental standard C++ library
 - [bde](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
 - [cmonster](https://github.com/axw/cmonster) - Python wrapper for the Clang C++ preprocessor and parser.

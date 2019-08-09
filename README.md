@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [Consus](https://github.com/rescrv/Consus) - Consus is a geo-replicated transactional key-value store.
 - [python-airtunes-server](https://github.com/jim-minter/python-airtunes-server) - 
 - [kuhllib](https://github.com/dietmarkuehl/kuhllib) - an experimental standard C++ library

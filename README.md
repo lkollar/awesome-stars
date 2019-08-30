@@ -103,6 +103,7 @@
 
 ## JavaScript 
 
+- [Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
 - [snwe](https://github.com/blahsd/snwe) - 🚀 Extensible, customisable, menubar replacement for macOS/UNIX.
 - [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write ups, videos, part lists and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.

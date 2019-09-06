@@ -151,6 +151,7 @@
 
 ## Python 
 
+- [tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [watcher-for-erste](https://github.com/wafle/watcher-for-erste) - 
 - [python-typesetting](https://github.com/brandon-rhodes/python-typesetting) - Page canon outlines for ReportLab
 - [python-flask-sample-app](https://github.com/codefresh-contrib/python-flask-sample-app) - Dockerized Python Flask Example application

@@ -134,6 +134,7 @@
 
 ## Others 
 
+- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
@@ -221,7 +222,6 @@
 
 ## TypeScript 
 
-- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 

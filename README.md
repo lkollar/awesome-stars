@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.
 - [LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [Consus](https://github.com/rescrv/Consus) - Consus is a geo-replicated transactional key-value store.
 - [python-airtunes-server](https://github.com/jim-minter/python-airtunes-server) - 
@@ -115,7 +116,7 @@
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Jamstash](https://github.com/tsquillario/Jamstash) - HTML5 Music Streamer for Subsonic

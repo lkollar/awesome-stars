@@ -174,7 +174,7 @@
 - [python-deb-pkg-tools](https://github.com/xolox/python-deb-pkg-tools) - Debian packaging tools
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [facebook-programming-challenges](https://github.com/alonsovidales/facebook-programming-challenges) - This is a compilation of possible questions to be solved in order to be hired by Facebook
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.

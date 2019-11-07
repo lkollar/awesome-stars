@@ -116,7 +116,7 @@
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Jamstash](https://github.com/tsquillario/Jamstash) - HTML5 Music Streamer for Subsonic

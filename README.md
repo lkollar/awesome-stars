@@ -168,7 +168,6 @@
 - [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [better-keynote-export](https://github.com/mcfunley/better-keynote-export) - A better export for sharing Keynote presentations, with support for presenter notes.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
-- [homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pydgin](https://github.com/cornell-brg/pydgin) - A (Py)thon (D)SL for (G)enerating (In)struction set simulators.
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -211,6 +210,7 @@
 
 - [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 - [centos-devtools](https://github.com/squeaky-pl/centos-devtools) - 
+- [homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
 - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.

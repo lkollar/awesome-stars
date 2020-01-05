@@ -159,6 +159,7 @@
 
 ## Python 
 
+- [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [watcher-for-erste](https://github.com/wafle/watcher-for-erste) - 
 - [python-typesetting](https://github.com/brandon-rhodes/python-typesetting) - Page canon outlines for ReportLab

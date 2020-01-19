@@ -21,7 +21,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
-  - [PLpgSQL](#plpgsql)
+  - [PLSQL](#plsql)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -144,7 +144,7 @@
 
 - [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 
-## PLpgSQL 
+## PLSQL 
 
 - [idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
 

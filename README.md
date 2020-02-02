@@ -162,7 +162,7 @@
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [watcher-for-erste](https://github.com/wafle/watcher-for-erste) - 
-- [python-typesetting](https://github.com/brandon-rhodes/python-typesetting) - Page canon outlines for ReportLab
+- [python-typesetting](https://github.com/brandon-rhodes/python-typesetting) - A Python library letting you invoke TeX-inspired typesetting algorithms
 - [python-flask-sample-app](https://github.com/codefresh-contrib/python-flask-sample-app) - Dockerized Python Flask Example application
 - [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app) - Exemplary real world JSON API built with Flask (Python)
 - [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 Micropython based devices ⛺
